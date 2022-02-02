@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Test"
+    src="http://localhost:5000/test.jpg"
+  />
+  <p
+    className="animate__animated animate__bounce"
+  >
+    Test
+  </p>
+</div>
+`;
